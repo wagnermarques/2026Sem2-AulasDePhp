@@ -1,0 +1,10 @@
+{
+    "name": "admin/2026sem2-aulas-de-php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
