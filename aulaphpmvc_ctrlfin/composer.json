@@ -1,0 +1,19 @@
+{
+    "name": "aula/php-mvc-controle-financeiro",
+    "description": "Projeto didático de MVC em PHP 8.5 para Controle Financeiro Pessoal",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Core\\": "core/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    },
+    "require": {
+        "php": ">=8.4"
+    }
+}
